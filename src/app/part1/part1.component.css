@@ -1,0 +1,5 @@
+div{display: inline-block;background-color: whitesmoke;}
+.col-md{padding: 0px 250px 0px 85px;}
+.col-md:hover{opacity: 0.5;}
+.mb-0:hover{opacity: 0.5;}
+.mb-0{padding-right: 88px;}

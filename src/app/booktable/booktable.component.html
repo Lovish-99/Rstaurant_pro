@@ -1,0 +1,50 @@
+<div class="container">
+    <h1>Book <span>Table</span> Here!</h1>
+    <h2>MAKE RESERVATION</h2>
+    <form>
+        <div class="form-group">
+            <div class="detail">
+                <h3>FILL DETAILS FOR BOOKING~</h3>
+            </div>
+            <div class="fm">
+                <div class="form1">
+                    <label>FIRST NAME: </label>
+                    <input type="text" name="name" class="form-control" id="1" placeholder="XYZ">
+                </div>
+                <div class="form1">
+                    <label>LAST NAME: </label>
+                    <input type="text" name="name" class="form-control" id="1" placeholder="XYZ">
+                </div>
+            </div>
+            <div class="fm">
+                <div class="form1">
+                    <label>EMAIL: </label>
+                    <input type="email" name="email" class="form-control" id="2" placeholder="xyz@gmail.com"> 
+                </div>
+                <div class="form1">
+                    <label>PHONE: </label>
+                    <input type="number" name="number" class="form-control" id="2" placeholder="9124587600">   
+                </div>
+            </div>
+            <div class="fm">
+                <div class="form1">
+                    <label>DATE: </label>
+                    <input type="date" name="date" class="form-control" id="3" placeholder="1/11/20">        
+                </div>
+                <div class="form1">
+                    <label>TIME: </label>
+                    <input type="time" name="time" class="form-control" id="4" placeholder="11:00 P.M">        
+                </div>
+            </div>
+            <div class="form1">
+                <div class="form-group1">
+                    <select class="custom-select">
+                        <option selected="">Person</option>
+                        <option *ngFor="let person of values">{{person}}</option>
+                    </select>
+                </div>
+                <button class="btn" type="sumbit">Make A Reservation</button>
+            </div>
+        </div>
+    </form>
+</div>

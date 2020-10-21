@@ -1,0 +1,19 @@
+.container{display: block;padding-top: 30px;}
+.col-md-3{display: inline-block;padding: 5px 65px 30px 50px;text-align: center;font-size: large;}
+a{text-decoration: none;color: rgba(255, 196, 0, 0.842);padding-left: 5px;}
+.col-md{display: block;}
+.h5{font-size: 40px;padding: 0px 0px 0px 150px;margin-bottom: -5px;color: #e9696e;}
+.w-100{display: block;}
+.form-group{padding-bottom: 15px;}
+.row{display: block;}
+.col-md-6{display: inline-block;float: right;}
+.col-md-7{display: inline-block;padding: 0px 0px 0px 50px;}
+.h4{font-size: 40px;color: black;text-shadow: 2px 2px 4px red}
+.h4:hover{color: gold;}
+.body{background-color: snow;}
+p{font-size: 20px;}
+p:hover{line-height: 1.5;opacity: 0.7;}
+form{margin: 0px 50px 0px 0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border: 2px solid whitesmoke;padding: 0px 20px 0px 20px;background-color: whitesmoke;}
+.form-control{width: 250px;height: 30px;border-radius: 30px;padding-left: 15px;font-size: medium;}
+.btn{border-radius: 30px;background-color: goldenrod;width: 150px;height: 40px;font-size: 16px;}
+.map{box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);width: 750px;height: 510px;}

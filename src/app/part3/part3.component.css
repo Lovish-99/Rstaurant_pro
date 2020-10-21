@@ -1,0 +1,9 @@
+.row{display: block;}
+.col-md-4{display: inline-block;}
+.container{background-color: silver;}
+.subheading{font-family: "Great Vibes",cursive;padding-top: 40px;font-size: 80px;color: #ca9141;}
+.col-md-12{padding-top: 40px;padding-left: 550px;}
+.mb-4{font-family: fantasy;font-size: 70px;margin-top: -75px;margin-left: -26px;opacity: 0.7;}
+.media{padding: 0px 80px 40px 89px;}
+img:hover{width: 210px;height: 250px;} 
+.media-body{font-family: fantasy;font-size: 25px; font-display: auto;}

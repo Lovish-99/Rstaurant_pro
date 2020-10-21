@@ -1,0 +1,12 @@
+.col-md-4{display: inline-block;padding: 10px 10px 30px 10px;;}
+.row{padding-top: 20px;margin-left: 90px;margin-right: 85px;}
+li{display: inline-block;border: 1px solid goldenrod;margin-right: 5px; padding: 0px 10px 0px 10px;border-radius: 3px;}
+a{text-decoration: none;font-size: x-large;color: black;}
+a:hover{color: #e9696e;}
+.text{background-color: whitesmoke;}
+.row1{text-align: center;}
+.a2{color: goldenrod;}
+.active{background-color: goldenrod;}
+.a1{color: white;}
+.float-left{color: goldenrod;}
+.float-right{color: goldenrod;}
